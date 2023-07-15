@@ -1,16 +1,18 @@
-# jiitak
+# JITAK
 
-A new Flutter project.
+---
 
-## Getting Started
+**This is an app developed for [Jitak](https://www.jitak.com).**
 
-This project is a starting point for a Flutter application.
+### Requirements:
 
-A few resources to get you started if this is your first Flutter project:
+- Use getx state management tool
+- UI must be responsive
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Given:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Figma file for the UI
+
+---
+
+> Contact me at: [linoshaji23@gmail.com](mailto:linoshaji23@gmail.com?subject=[GitHub]%20Jitak%20App)
